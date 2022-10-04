@@ -2,4 +2,23 @@
 
 = is assign operator, when we said String a = "John", we are assigning the value John to String a.
 
-== is comparision, it return boolean value, 
+== is comparision, it return boolean value,
+
+11. What is a method? What is the main method? Why do we need one in java? Do we
+have to have a main method in java?
+
+a method is function that helps us to do something, we can say it's an collection of statements that are grouped togheter to perform an operation.
+
+Main method is where Jvm start execution of the code.
+
+We need a main method to run our code.
+
+Explain the public static void main(String args[]){}
+
+public is a access modifier
+Static is keyword which makes our method become class level methods, we don't have to create an instance of the class to use that method.
+main is the name of the main method, we need main method to run our code. jvm will look for main
+comman line argument pass to the main method
+
+
+
