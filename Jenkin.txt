@@ -1,0 +1,4 @@
+How do you achive ci/cd in your company:
+
+we use git as a SCM, along with Github for collaboration purposes.
+and how we set up our jenkins is when we configure a job, we build maven project, when we configure it we 
