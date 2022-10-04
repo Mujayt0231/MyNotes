@@ -1,0 +1,5 @@
+10. Difference between == and =?
+
+= is assign operator, when we said String a = "John", we are assigning the value John to String a.
+
+== is comparision, it return boolean value, 
