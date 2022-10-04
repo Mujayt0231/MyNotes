@@ -13,7 +13,7 @@ Main method is where Jvm start execution of the code.
 
 We need a main method to run our code.
 
-Explain the public static void main(String args[]){}
+Please explain the public static void main(String args[]){}
 
 public is a access modifier
 Static is keyword which makes our method become class level methods, we don't have to create an instance of the class to use that method.
