@@ -11,7 +11,7 @@ a method is function that helps us to do something, we can say it's an collectio
 
 Main method is where Jvm start execution of the code.
 
-We need a main method to run our code.
+We need a main method to run our code!
 
 Please explain the public static void main(String args[]){}
 
